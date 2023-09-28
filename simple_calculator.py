@@ -62,7 +62,6 @@ def process_equations_from_file(filename):
 def clear():
 
     # Clear the display
-    
 
 def main():
 
